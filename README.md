@@ -7,7 +7,6 @@ Neste Projeto a construção visava aplicar responsividade utilizando media quer
 
 [Deploy](https://finans-jade.vercel.app/)<br>
 
-
 <h2>📷 Preview</h2>
-<h3>Desktop:</h3>
+
 <img src="./cinnamon-20210408-7.gif">
